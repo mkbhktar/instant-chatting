@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "instant-chatting"
+    }
+  },
+  "defaultProject": "instant-chatting",
+  "cli": {
+    "analytics": false
+  }
 }
